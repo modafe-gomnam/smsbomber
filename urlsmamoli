@@ -1,0 +1,19 @@
+urlsmamoli = {  
+                "snap":"https://app.snapp.taxi/api/api-passenger-oauth/v2/otp",
+                "baskol":"https://www.buskool.com/send_verification_code",
+                "drnext":"https://cyclops.drnext.ir/v1/patients/auth/send-verification-token",
+                "bit24":"https://bit24.cash/app/api/auth/check-mobile",
+                "kalaget":"https://api.digikalajet.ir/user/login-register/",
+                "basalam":"https://auth.basalam.com/otp-request",
+                "miare":"https://www.miare.ir/api/otp/client/request/",
+                "drdr":"https://drdr.ir/api/registerEnrollment/verifyMobile",
+                "anar":"https://api.anargift.com/api/v1/auth/auth",
+                "nobat":"https://nobat.ir/api/public/patient/login/phone",
+                "itoll":"https://app.itoll.ir/api/v1/auth/login",
+                "banimode":"https://mobapi.banimode.com/api/v2/auth/request",
+                "sibirani":"https://sandbox.sibirani.ir/api/v1/user/invite",
+                "telewebion":"https://gateway.telewebion.com/shenaseh/api/v2/auth/step-one",
+                "timche":"https://api.timcheh.com/auth/otp/send",
+                "fafa":"https://api2.fafait.net/oauth/check-user",
+                "delino":"https://www.delino.com/user/register"
+            }
