@@ -1,4 +1,4 @@
-urlsmamoli = {  
+{  
                 "snap":"https://app.snapp.taxi/api/api-passenger-oauth/v2/otp",
                 "baskol":"https://www.buskool.com/send_verification_code",
                 "drnext":"https://cyclops.drnext.ir/v1/patients/auth/send-verification-token",
@@ -16,4 +16,4 @@ urlsmamoli = {
                 "timche":"https://api.timcheh.com/auth/otp/send",
                 "fafa":"https://api2.fafait.net/oauth/check-user",
                 "delino":"https://www.delino.com/user/register"
-            }
+                }
